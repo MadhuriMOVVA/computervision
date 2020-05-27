@@ -1,0 +1,41 @@
+html,
+body {
+  margin: 0;
+  padding: 10px;
+  background: #eee;
+  font-family: sans-serif;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+  margin: auto;
+  display:block;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+button {
+  background: #5B9DFE;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 10px 30px;
+  margin-bottom:10px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+progress{
+  margin: 0 10px;
+  margin-bottom: -3px;
+}
